@@ -60,6 +60,7 @@ python manage.py migrate <앱 이름><번호>
 python manage.py migrate <앱_이름> zero
 ```
 ---
+**결론**
 데이터베이스가 매우매우매우 중요하므로 이 부분에 대해서는 꼭 다시 확인하고 가자!
  
 
