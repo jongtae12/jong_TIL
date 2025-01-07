@@ -18,7 +18,7 @@
 python manage.py makemigrations
 python manage.py makemigrations <앱 이름>
 ```
-**`주의사항`**
+**`주의사항`**  
 왠만하면 뒤에 앱까지 쓰세요.  
 힘들어질 수 있다고 합니다.  
 
@@ -30,7 +30,7 @@ python manage.py makemigrations <앱 이름>
 python manage.py migrate
 python manage.py migrate <앱 이름>
 ```
-**`주의사항`**
+**`주의사항`**  
 이건 그냥 무조건 뒤에 앱까지 쓰세요.  
 힘들어질 수 있다고 합니다.  
 
