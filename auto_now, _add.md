@@ -1,6 +1,6 @@
 # 🕒auto_now와 auto_now_add
 
-**1. auto_now와 auto_now_add의 사용용**  
+**1. auto_now와 auto_now_add의 사용**  
 **2. auto_now와 auto_now_add 차이점**  
 
 ---
